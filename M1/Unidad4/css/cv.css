@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: blue;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+h2, h3, h4 {
+    font-size: 14pt;
+}
+
+p {
+    font-size: 10pt;
+}
+
+/*
+ID
+*/
+#principal {
+    color: #000033;
+}
+
+#foto {
+    width: 300px;
+}
+
+/*
+clase
+*/
+.titulos {
+    color: gray;
+}
+
+.negritas {
+    font-weight: bold;
+    font-style: italic;
+}
