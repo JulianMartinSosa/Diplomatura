@@ -1,0 +1,9 @@
+.caja {
+    background: #ff0000;
+    background: repeating-radial-gradient(circle farthest-corner at center center, #ff0000 0%, #00ff00 20%);
+    background: -webkit-repeating-radial-gradient(circle farthest-corner at center center, #ff0000 0%, #00ff00 20%);
+    background: -moz-repeating-radial-gradient(circle farthest-corner at center center, #ff0000 0%, #00ff00 20%);
+    color: white;
+    height: 500px;  
+    width: 200px;  
+}

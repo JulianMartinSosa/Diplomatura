@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: blue;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+h2, h3, h4 {
+    font-size: 14pt;
+}
+
+p {
+    font-size: 10pt;
+}
+
+/*
+ID
+*/
+#principal {
+    color: #000033;
+}
+
+#foto {
+    width: 300px;
+}
+
+/*
+clase
+*/
+
+.experiencia {
+    background-color: tomato;
+    width: 400px;
+    height: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: thistle;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.principal {
+    background: #1651e8;
+    background: radial-gradient(circle farthest-corner at center center, #1651e8 10%, #858560 15%, #8e998e 40%);
+    background: -webkit-radial-gradient(circle farthest-corner at center center, #1651e8 10%, #858560 15%, #8e998e 40%);
+    background: -moz-radial-gradient(circle farthest-corner at center center, #1651e8 10%, #858560 15%, #8e998e 40%);
+    box-shadow: 20px 22px 24px 1px rgba(0,0,0,1);
+    -webkit-box-shadow: 20px 22px 24px 1px rgba(0,0,0,1);
+    -moz-box-shadow: 20px 22px 24px 1px rgba(0,0,0,1);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    height: 40px;
+    width: 400px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.titulos {
+    color: gray;
+}
+
+.negritas {
+    font-weight: bold;
+    font-style: italic;
+}
